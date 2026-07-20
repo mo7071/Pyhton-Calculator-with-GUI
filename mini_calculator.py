@@ -1,12 +1,13 @@
-# Python Calculator
+# Mini Calculator
+
 # A simple command line calculator bulitd using Python.
 
-# Add featchures 
-# Addition
-# Substraction 
-# Multiplication
-# Division
-# Moduler 
+# Features:
+# - Addition
+# - Subtraction
+# - Multiplication
+# - Division
+# - Modulus
 
 # Techonologies: Python
 
